@@ -1,0 +1,9 @@
+# Ignore system generated files
+hash_database.json
+log.txt
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
